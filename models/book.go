@@ -1,3 +1,6 @@
+/*
+	This package is used for user data
+*/
 package models
 
 type Book struct {
